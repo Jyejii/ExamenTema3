@@ -11,4 +11,5 @@ c) Generar números aleatorios
 
 d) Gestionar las operaciones de red
 
+RESPUESTA:b) Representar cualquier tipo de dato Lisp
 
