@@ -35,6 +35,19 @@ c) Parsea un objeto JSON a un objeto Variant
 
 d) Serializa un objeto Variant en una cadena binaria
 
-RESPUESTA:Convierte un objeto Variant a una cadena JSON
+RESPUESTA:b)Convierte un objeto Variant a una cadena JSON
+
+## 4.¿Qué función cumple el método from_json_string() en la clase Variant?
+
+a) Convierte una cadena JSON en un objeto Variant
+
+b) Convierte un objeto Variant a una cadena JSON
+
+c) Parsea un objeto JSON a un objeto Variant
+
+d) Serializa un objeto Variant en una cadena binaria
+
+RESPUESTA:a) Convierte una cadena JSON en un objeto Variant
+
 
 
