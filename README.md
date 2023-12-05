@@ -56,3 +56,7 @@ RESPUESTA:a) Convierte una cadena JSON en un objeto Variant
 
 -Otra de las aplicaciones de la clase Variant y Enviroment en un videojuego puede ser la definiciom  de objetos.Esto se podria dar en caso de que necesites definir objetos con diferentes caracteristicas como podria ser tamaño,calor,etc...
 
+## 8.Reflexión y Mejoras:Basándote en tu implementación, discute posibles mejoras o extensiones que podrían beneficiar al sistema de scripting en el futuro. Considera aspectos como la optimización, expansión de la tabla de símbolos, o la introducción de funciones más avanzadas.
+
+El uso de las funciones Enviroment y variant son muy importantes y para mejorar el uso de este sistema en un futuro podriamos mejorar el sistema donde se validan los errores para que den explicaciones mas amplias y claras de lo que pueda haber pasado,tambien podiamos mencionar un sistema multiplataforma àra que el sistema pueda ser usado en diferentes tipos de dispositivos tannto en pc, como en movil y como en consolas
+
